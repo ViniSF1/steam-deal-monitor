@@ -1,0 +1,22 @@
+{
+  "country": "BR",
+  "currency": "BRL",
+  "steam_shop_id": 61,
+  "max_price": 100.0,
+  "min_discount": 50,
+  "min_steam_rating": 80,
+  "genres": [
+    "RPG",
+    "Open World",
+    "Survival",
+    "Adventure",
+    "Strategy",
+    "Souls-like",
+    "Racing"
+  ],
+  "history_mode": "near",
+  "near_history_percent": 10,
+  "notify_only_new_deals": true,
+  "deals_per_page": 200,
+  "max_pages": 5
+}
